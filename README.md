@@ -114,8 +114,7 @@ The Excel workbook contains the following sheets:
 
 Below is a preview of the Shopping Mall Customer Segmentation Dashboard:
 
-![Shopping Mall Customer Segmentation Dashboard](images/customer-segmentation-dashboard.png)
-
+![Shopping Mall Customer Segmentation Dashboard](Customer%20Segmentation%20Dashboard.png)
 
 
 ## Project Files
