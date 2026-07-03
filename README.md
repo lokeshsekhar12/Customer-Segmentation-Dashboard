@@ -112,9 +112,9 @@ The Excel workbook contains the following sheets:
 
 ## Dashboard Preview
 
-Added a screenshot of the dashboard below:
+Below is a preview of the Shopping Mall Customer Segmentation Dashboard:
 
-![Dashboard Screenshot](images/dashboard1.png)
+![Shopping Mall Customer Segmentation Dashboard](images/customer-segmentation-dashboard.png)
 
 
 
