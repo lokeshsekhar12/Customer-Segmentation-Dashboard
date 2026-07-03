@@ -112,7 +112,10 @@ The Excel workbook contains the following sheets:
 
 ## Dashboard Preview
 
-Added a screenshot of the dashboard here:
+Added a screenshot of the dashboard below:
+
+![Dashboard Screenshot](images/dashboard1.png)
+
 
 
 ## Project Files
